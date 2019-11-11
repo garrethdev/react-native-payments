@@ -12,7 +12,7 @@ s.name         = "ReactNativePayments"
   s.homepage     = package["repository"]
   s.authors      = "Naoufal Kadhom"
   s.license      = "MIT"
-  s.source         = { :git => 'https://github.com/naoufal/react-native-payments', :tag => s.version }
+  s.source         = { :git => 'https://github.com/garrethdev/react-native-payments', :tag => s.version }
 
   s.requires_arc   = true
   s.platform       = :ios, '10.0'
